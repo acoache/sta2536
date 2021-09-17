@@ -1,3 +1,3 @@
 # STA2536
 
-Code and notes for STA 2536: Data Science for Risk Modeling
+Code and notes for STA 2536: Data Science for Risk Modeling at the University of Toronto. Course taught by [Sebastian Jaimungal](http://sebastian.statistics.utoronto.ca/).
